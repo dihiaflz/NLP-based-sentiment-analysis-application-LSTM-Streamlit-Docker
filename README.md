@@ -5,9 +5,7 @@ This project is a deep learning application that classifies movie reviews as pos
 It includes:
 
 - A trained AI model ready for inference
-
 - An app interface to run predictions on custom text inputs
-
 - A training notebook (available locally and on my Kaggle profile)  
 
 # HOW TO ository to your local machine.
