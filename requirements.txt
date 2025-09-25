@@ -1,6 +1,0 @@
-keras==3.11.3
-numpy==2.3.3
-Pillow==11.3.0
-streamlit==1.50.0
-tensorflow==2.20.0
-tensorflow_hub==0.16.1
