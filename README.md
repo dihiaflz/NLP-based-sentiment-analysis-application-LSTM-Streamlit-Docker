@@ -21,5 +21,3 @@ You can also run the app inside Docker:
 3. Run a container from the image using **docker run -p 8501:80 sentiment-analyst:v1.0** or **docker run -p 8501:80 sentiment-analyst:latest** according to the version displayed in your docker desktop -> Images section
 
 You can now run the app through the Local URL **localhost:8501**
-USE :
-1. Clone the rep
