@@ -11,9 +11,9 @@ It includes:
 - A training notebook (available locally and on my Kaggle profile)  
 
 # HOW TO ository to your local machine.
-2. Create a virtual environment using the command **python -m venv venv** and then activate it using **venv\Scripts\activate**
-3. Move to the app folder using **cd app** and Install dependencies using **pip install -r requirements.txt**
-4. Once everything is installed, you can run the app with **python -m streamlit run main.py** (considering you are in the app folder)
+1. Create a virtual environment using the command **python -m venv venv** and then activate it using **venv\Scripts\activate**
+2. Move to the app folder using **cd app** and Install dependencies using **pip install -r requirements.txt**
+3. Once everything is installed, you can run the app with **python -m streamlit run main.py** (considering you are in the app folder)
 
 # Second Option : DOCKER
 You can also run the app inside Docker:
