@@ -17,7 +17,7 @@ It includes:
 # Second Option : DOCKER
 You can also run the app inside Docker:
 1. Open your Docker Desktop App and ensure that it is activated
-2. Build the Docker image using **docker build -t sentiment-analyst .**
+2. Build the Docker image using **docker build -t sentiment-analyst .** after moving to the app folder using **cd app** (where is the dockerfile)
 3. Run a container from the image using **docker run -p 8501:80 sentiment-analyst:v1.0** or **docker run -p 8501:80 sentiment-analyst:latest** according to the version displayed in your docker desktop -> Images section
 
 You can now run the app through the Local URL **localhost:8501**
